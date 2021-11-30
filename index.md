@@ -5,7 +5,7 @@ I wanted to see statistics of crimes occuring in parks throughout the five borou
 
 ## Crime in Parks vs Total Crime
 
-![TotalCrime](https://github.com/JohnRuan18/CSCI39542project/TotalCrime.png)
+![TotalCrime](https://github.com/JohnRuan18/CSCI39542project/TotalCrime.png?raw=true)
 
 **Bold** and _Italic_ and `Code` text
 
