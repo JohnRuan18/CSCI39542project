@@ -7,17 +7,6 @@ I wanted to see statistics of crimes occuring in parks throughout the five borou
 
 ![TotalCrime](https://github.com/JohnRuan18/CSCI39542project/blob/gh-pages/TotalCrime.png)
 
-**Bold** and _Italic_ and `Code` text
+## Crime in Parks Across all Five Boroughs
 
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/JohnRuan18/CSCI39542project/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+![BoroughParkCrime](https://github.com/JohnRuan18/CSCI39542project/blob/gh-pages/ParkTotalBoroughs.png)
