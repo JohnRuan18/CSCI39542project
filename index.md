@@ -5,7 +5,7 @@ I wanted to see statistics of crimes occuring in parks throughout the five borou
 
 ### Crime in Parks vs Total Crime
 
-![TotalCrime](https://github.com/JohnRuan18/CSCI39542project/blob/gh-pages/TotalCrime.png)
+![TotalCrime](/CSCI39542projecct/assets/)
 
 ### Crime in Parks Across all Five Boroughs
 
