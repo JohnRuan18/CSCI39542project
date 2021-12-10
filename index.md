@@ -19,5 +19,5 @@ This chart compares the number of crimes that occured during parks in each borou
 I first needed to convert the data given by the NYPD from xlsx to csv. After reading their dataframes, I scraped the information I needed by using pandas to sum columns with specific row names. This was how I could retrieve the total number of crimes in parks given the parks dataframe. I then referred to the total crime in NYC boroughs for 2021 and displayed the comparisons between the numbers via matplotlib's pie charts. 
 
 ### Citations
-[Park Crime](https://www1.nyc.gov/site/nypd/stats/crime-statistics/park-crime-stats.page)
+[Park Crime](https://www1.nyc.gov/site/nypd/stats/crime-statistics/park-crime-stats.page)  
 [NYC Borough Crime](https://www1.nyc.gov/site/nypd/stats/crime-statistics/borough-and-precinct-crime-stats.page#brooklyn)
